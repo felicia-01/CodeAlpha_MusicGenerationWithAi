@@ -45,8 +45,8 @@ After mounting Google Drive, parse the uploaded MIDI files, then train LSTM mode
 
 ### Output:
 
-<img width="370" height="175" alt="image" src="https://github.com/user-attachments/assets/12fb7335-0175-4719-a985-b43e834ae0d4" />
-<img width="389" height="304" alt="image" src="https://github.com/user-attachments/assets/a97cd2b4-ed17-430c-8dec-c1f343d5acf9" />
+<img width="350" height="175" alt="image" src="https://github.com/user-attachments/assets/12fb7335-0175-4719-a985-b43e834ae0d4" />
+<img width="350" height="304" alt="image" src="https://github.com/user-attachments/assets/a97cd2b4-ed17-430c-8dec-c1f343d5acf9" />
 <img width="254" height="185" alt="output_music" src="https://github.com/user-attachments/assets/456b6b0a-e3bc-43b1-99b0-2822a165be50" />
 
 
